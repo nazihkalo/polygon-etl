@@ -37,7 +37,7 @@ setup(
     install_requires=[
         "base58",
         "blockchain-etl-common==1.6.1",
-        "click==7.0",
+        "click==8.0.4",
         "eth-abi==1.3.0",
         "eth-utils==1.8.4",
         "ethereum-dasm==0.1.4",
